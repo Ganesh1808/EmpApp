@@ -13,7 +13,7 @@
 <%@include file="header.jsp" %>
 <form action="department">
 <div class="form-group">
-<label for="loc">loc id:</label>
+<label for="loc">location id:</label>
 <input type="number" class="form-control" name="loc">
 \</div>
 <button type="submit" class="btn btn-default">get location details</button>
