@@ -13,10 +13,11 @@
 <%@include file="header.jsp" %>
 <form action="department">
 <div class="form-group">
-<label for="loc">location id:</label>
+<label for="loc">loc id:</label>
 <input type="number" class="form-control" name="loc">
-<h1>podaaaa</h1>
+
 </div>
+<h1>podaaaa</h1>
 <button type="submit" class="btn btn-default">get location details</button>
 </form>
 </body>
